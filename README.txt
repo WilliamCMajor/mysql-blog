@@ -6,6 +6,6 @@ This is a CRUD (Create, Insert, Update, Delete) PHP application.
 
 Used MySQL command to do data fetch, update, insert, and delete.
 
-The edit box includes title, content, and emoji insertion.
+The editor box includes title, content, auto-generate date, and emoji insertion.
 
 Developed on Heroku and using ClearDB.
