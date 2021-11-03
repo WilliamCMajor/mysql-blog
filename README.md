@@ -1,4 +1,4 @@
-MySQL Blog Web Application
+# MySQL Blog Web Application
 ------------------------------------------
 Site URL: https://mysql-blog-william.herokuapp.com/
 
