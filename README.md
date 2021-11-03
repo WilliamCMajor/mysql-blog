@@ -1,5 +1,5 @@
 # MySQL Blog Web Application
-------------------------------------------
+
 Site URL: https://mysql-blog-william.herokuapp.com/
 
 This is a CRUD (Create, Insert, Update, Delete) PHP application. 
